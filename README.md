@@ -1,2 +1,2 @@
-# word-excel-
-word-excel中暴力查找替换词语
+# word-excel
+查找替换文件夹下所有不论命名的word或excel文档
